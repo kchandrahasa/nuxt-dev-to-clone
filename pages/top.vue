@@ -1,5 +1,6 @@
 <template>
   <div class="page-wrapper">
+    <h1>Top Page</h1>
     <template v-if="$fetchState.pending && !articles.length">
       <div class="article-cards-wrapper">
         <content-placeholders
