@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "node": "^14.13.0",
-    "nuxt": "2.14.3",
+    "nuxt": "2.14.3"
+  },
+  "devDependencies": {
     "nuxt-ackee": "2.0.0",
     "vue-content-placeholders": "0.2.1",
     "vue-observe-visibility": "0.4.6",
-    "yarn": "1.22.4"
-  },
-  "devDependencies": {
+    "yarn": "1.22.4",
     "@nuxtjs/eslint-config": "3.0.0",
     "@nuxtjs/eslint-module": "2.0.0",
     "@nuxtjs/style-resources": "1.0.0",
